@@ -74,23 +74,6 @@ This project includes visualizations such as:
 
 ---
 
-#### **How to Use**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/data-science-job-analysis.git
-   ```
-
-2. **Install Dependencies**:
-   Ensure you have Python installed, then install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Notebook**:
-   Open and run the Jupyter Notebook to explore the analysis and visualizations.
-
----
 
 #### **Future Work**
 
@@ -106,19 +89,14 @@ Contributions are welcome! Feel free to submit a pull request or open an issue t
 
 ---
 
-#### **License**
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
 #### **Contact**
 
 For any questions or suggestions, feel free to reach out:
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Email**: pkprashantkumar9898@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prashant-kumar-64101b304/))
+- **GitHub**: [Your GitHub Profile](https://github.com/PrashantKumar9889)
 
 ---
-
-Would you like to customize this further with your contact details or repository link?
